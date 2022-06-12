@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'All-Operactions';
+
+
+
+  //ng generate module customers --route customers --module app.module   [Create MOdule with Component]
 }
